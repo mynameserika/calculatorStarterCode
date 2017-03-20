@@ -19,3 +19,8 @@
 {
 	max-width: 700px;
 }
+
+.col-md-2{
+    float:left;
+	width:20%;
+}
